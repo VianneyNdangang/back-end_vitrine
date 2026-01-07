@@ -1,0 +1,5 @@
+django
+django-rest-framework
+requests
+django-cors-headers
+python-decouple
